@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📊 Data Analysis Projects
 
-- **[Cyclistic Data Analysis (R Language)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Cyclistic Data Analysis (R Language)](https://rpubs.com/rstosik/790011)**
 
 <hr/>
 
